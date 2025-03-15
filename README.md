@@ -1,6 +1,6 @@
-# IT PORI
+# Byteonsoft
 
-**IT PORI** is a web application that offers a variety of IT services to help businesses enhance their digital presence. This project is built using modern frontend technologies, including Vite, React.js, React Router DOM, and Tailwind CSS for a fast, responsive, and seamless user experience.
+**Byteonsoft** is a web application that offers a variety of IT services to help businesses enhance their digital presence. This project is built using modern frontend technologies, including Vite, React.js, React Router DOM, and Tailwind CSS for a fast, responsive, and seamless user experience.
 
 ## Table of Contents
 - [Features](#features)
@@ -34,7 +34,7 @@ The Layout component serves as the primary structure of the application, incorpo
 The Hero component captures users' attention with a prominent banner and a clear call to action.
 
 ### 3. Service Component
-The Service component showcases various services offered by IT PORI, often in a carousel format for engaging user interaction.
+The Service component showcases various services offered by ByteonSoft, often in a carousel format for engaging user interaction.
 
 ### 3. Do Project Component
 The DoProjects component presents a curated selection of web applications for industries like hospitality, retail, and education. Each project features engaging hover effects to reveal detailed descriptions, highlighting their functionality and benefits.
@@ -48,7 +48,4 @@ The Clients component is designed to showcase a company’s clients in a visuall
 ### 4. Navbar Component
 The Navbar component facilitates user navigation throughout the application, with links to all primary sections.
 
-### 5. Footer Component
-The Footer component provides additional links and information about IT PORI, enhancing site navigation.
 
-## Live Link: https://it-pori.vercel.app
