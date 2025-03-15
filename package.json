@@ -1,0 +1,32 @@
+{
+  "name": "it-pori",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@smastrom/react-rating": "^1.5.0",
+    "axios": "^1.7.7",
+    "crypto-js": "^4.2.0",
+    "keep-react": "^1.5.0",
+    "next": "14.2.15",
+    "phosphor-react": "^1.4.1",
+    "react": "^18",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18",
+    "react-icons": "^5.3.0",
+    "react-intersection-observer": "^9.13.1",
+    "sharp": "^0.33.5",
+    "socket.io-client": "^4.8.1",
+    "swiper": "^11.1.14",
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
